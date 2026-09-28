@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/yardkey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Yard host/key network string helpers for config audits.",
+  "bin": {
+    "yardkey": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/yardkey.git"
+  },
+  "homepage": "https://theworker02.github.io/yardkey/",
+  "keywords": [
+    "yard",
+    "key",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
